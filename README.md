@@ -4,8 +4,14 @@
 
 I'm a full-time student, passionate about web development and more to back-end development.
 
-  -🌱 I’m currently learning React JS, Django, Docker, Data structures and algorithms, JIRA, UML and object oriented.
-  
+-🌱 I’m currently learning React JS, Django, Docker, Data structures and algorithms, JIRA, UML and object oriented.
+-📫 How to reach me: danishikhwn03@gmail.com or dnshikhwan.dev
+
+🛠 Skills
+Web Development: 
+- Django
+- React JS
+
 <!--
 **dnshikhwan/dnshikhwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

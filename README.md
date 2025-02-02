@@ -2,6 +2,8 @@
 
 I'm a **Full Stack Developer** with expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js), **PostgreSQL**, and **TypeScript**. I love building scalable, efficient, and user-friendly web applications. 
 
+#### 🎂 Age: 22
+
 #### 🛠️ Technologies & Tools
 
 - **Frontend**: React, TypeScript, Redux, TailwindCSS, HTML5, CSS3

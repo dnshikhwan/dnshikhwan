@@ -23,7 +23,7 @@ I'm a **Full Stack Developer** with expertise in the **MERN stack** (MongoDB, Ex
 
 Here are some of the projects I've worked on:
 
-- **[Chat app]([https://github.com/your-username/project-1](https://www.message.project.danishikhwan.dev/))**: A real-time chat app, built using MERN stack.
+- **[Chat app](https://www.message.project.danishikhwan.dev)**: A real-time chat app, built using MERN stack.
 
 #### 📈 GitHub Stats
 

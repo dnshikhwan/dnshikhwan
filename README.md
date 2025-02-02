@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 #### 📈 GitHub Stats
 
 ![dnshikhwan's Stats](https://github-readme-stats.vercel.app/api?username=dnshikhwan&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
+![dnshikhwan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dnshikhwan&theme=vue-dark&hide_border=true)
 ![dnshikhwan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnshikhwan&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 #### 📫 How to Reach Me

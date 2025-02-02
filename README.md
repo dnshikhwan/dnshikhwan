@@ -1,52 +1,44 @@
-### About Me
-#### Full-time student in Russia
-Tackling an intense schedule with resilience, adapting to both cultural and language challenges.
-#### Backend & AI Enthusiast
-Focused on mastering backend development and integrating AI into applications using Java.
-#### Hands-on Learner
-I prefer writing every line of code myself for deep understanding, striving for originality in all my work.
-#### Goal-Oriented
-Currently working through a 387-topic Java course, with 110 topics completed!
+### Hi there 👋 I'm Ahmad Danish Ikhwan
 
+I'm a **Full Stack Developer** with expertise in the **MERN stack** (MongoDB, Express.js, React, Node.js), **PostgreSQL**, and **TypeScript**. I love building scalable, efficient, and user-friendly web applications. 
 
-#### Tech Stack
-Languages: Java, C, SQL\
-Frameworks: Django, Tailwind CSS\
-Database: PostgreSQL\
-Areas of Interest: Algorithms, Database Management, AI & Backend Development
+#### 🛠️ Technologies & Tools
 
-#### Featured Projects
-File Submission & Payment System\
-Built using Django and Tailwind CSS, this system lets students upload files, auto-calculates page counts, and processes payments seamlessly.
+- **Frontend**: React, TypeScript, Redux, TailwindCSS, HTML5, CSS3
+- **Backend**: Node.js, Express.js, TypeScript, REST APIs, GraphQL
+- **Databases**: MongoDB, PostgreSQL
+- **DevOps**: Render, Vercel
+- **Tools**: Git, GitHub, VS Code, Postman
 
-🎮 Java Mini Projects\
-From simple to-do lists to interactive games like Rock-Paper-Scissors with custom elements. These projects help reinforce my backend skills through daily practice and feedback.
+#### 🌱 What I'm Currently Learning
 
-📈 Algorithm Optimization\
-Recently worked on optimizing the Bellman-Ford algorithm by adding early termination and negative cycle detection for better performance.
+- Advanced TypeScript patterns
+- Microservices architecture
+- Kubernetes for container orchestration
+- Next.js for server-side rendering
 
-🗃️ Database Queries\
-Applying PostgreSQL skills in labs focused on complex queries, such as multi-table joins, subqueries, and department-based product analysis.
+#### 💼 My Projects
 
-#### Current Learning Goals
-Backend Development Mastery\
-Solidify my foundation in Java with daily mini-projects and continuous feedback.
+Here are some of the projects I've worked on:
 
-AI Integration in Backend\
-Build a combined skill set by exploring AI applications within backend systems.
+- **[Chat app]([https://github.com/your-username/project-1](https://www.message.project.danishikhwan.dev/))**: A real-time chat app, built using MERN stack.
 
-Real-World Applications\
-Working towards a final year project that incorporates AI and backend development for practical, impactful solutions.
+#### 📈 GitHub Stats
 
-#### Side Projects & Fun Facts
-📽️ Event Visuals\
-Produced cyberpunk-themed teaser videos for events like Talent Night, aligning with the "Glitch in the Matrix" vibe.
+![dnshikhwan's Stats](https://github-readme-stats.vercel.app/api?username=dnshikhwan&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-🔍 Problem Solver\
-I enjoy tackling complex algorithms, recently optimizing the Bellman-Ford algorithm for performance improvements.
+![dnshikhwan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dnshikhwan&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-👨‍💻 Originality Focused\
-Every project is uniquely mine, with minimal corrections to maintain originality and foster my growth.
+#### 📫 How to Reach Me
 
-### Let's Connect!
-I'm always open to collaboration or discussions on Java, Backend, and AI Development. Feel free to reach out!
+- **Email**: [danishikhwn03@gmail.com](mailto:danishikhwn03@gmail.com)
+- **LinkedIn**: [LinkedIn Profile](https://my.linkedin.com/in/ahmad-danish-ikhwan-bin-zairul-akhbar-6895a215a)
+- **Portfolio**: [Portfolio website](https://danishikhwan.dev)
+
+#### ⚡ Fun Fact
+
+I'm a huge fan of innovation and technology, and I believe in continuous learning and growth.
+
+---
+
+⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
